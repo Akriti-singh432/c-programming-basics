@@ -9,12 +9,12 @@ int main(){
       printf("Enter a Third numbers");
        scanf("%d", &c);
     sum=calsum(a,b,c);
-    printf("sum=%d\n",sum);
+    printf("sum=%d\n",sum); 
     return 0;
 }
-int calsum(int x, int y, int z)
+int calsum(int x, int y, int z) 
 {
     int d;
-    d=x+y+z;
+    d=x+y+z;      
     return(d);
 }

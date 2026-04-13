@@ -87,42 +87,11 @@ int main(){
     printf("Sum = %d", sum);
     return 0;
 }
-#include<stdio.h>
-int main(){
-    int i,n,fact=1;
-    printf("Enter a number:");
-    scanf("%d", &n);
-    for(i=1; i<=n; i++){
-    fact=fact*i;
-}
-printf("Factorial of %d is : %d", n, fact);
-return 0;                       
-}                          
+                          
                                        
                               
-   #include<stdio.h>
-int main(){
-    int i,n,fact=1;
-    printf("Enter a number:");
-    scanf("%d", &n);
-    for(i=1; i<=n; i++){
-        fact=fact*i;
-    }
-    printf("Factorial of %d is : %d", n, fact);
-    return 0;
-} 
+   
 
-#include<stdio.h>
-int main(){
-    int i,n,fact=1;
-    printf("Enter a number:");
-    scanf("%d", &n);
-    for(i=1; i<=n; i++){
-        fact= fact*i;
-    }
-    printf("Factorial= %d\n", fact);
-    return 0;
-}
 ********************************** Pointer Program ************************************
 
 #include <stdio.h>
@@ -139,17 +108,7 @@ int main() {
 
     return 0;
 }
-#include<stdio.h>
-int main(){
-    int i,n,fact=1;
-    printf("Enter a number:");
-    scanf("%d", &n);
-    for(i=1; i<=n; i++){
-        fact=fact*i;
-    }
-    printf("Factorial = %d", fact);
-    return 0;
-}*/
+*/
 #include<stdio.h>
 int main(){
     int i,n,rev =0;

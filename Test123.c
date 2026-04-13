@@ -108,7 +108,7 @@ int main() {
 
     return 0;
 }
-*/
+
 #include<stdio.h>
 int main(){
     int i,n,rev =0;
@@ -121,4 +121,44 @@ int main(){
     printf("Revrers = %d",rev);
     return 0;
 }
-
+#include<stdio.h>
+int main(){
+    int num;
+    printf("Enter a values:");
+    scanf("%d", &num);
+    if(num%2==0){
+        printf("Even Number");
+    }else{
+        printf("Odd Number");
+    }
+    return 0;
+}
+#include<stdio.h>
+int main(){
+    int i,n;
+    printf("Enter a Number:");
+    scanf("%d", &n);
+    for(i=2; i<n; i++){
+        if(i%n==0){
+            printf("Prime number");
+        return 0;
+        }
+    }
+    printf("Not prime Number");
+return 0;
+}
+*/
+#include<stdio.h>
+int main(){
+    int i,n;
+    printf("Enter a Number:");
+    scanf("%d", &n);
+    for(i=2; i<n; i++){
+        if(n%i==0){
+            printf("Not Prime Number");
+            return 0;
+        }
+    }
+    printf("Prime Number");
+    return 0;
+}

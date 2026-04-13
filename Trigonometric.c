@@ -13,3 +13,4 @@ int main(){
     printf("%f %f %f %f\n", w, x, y, z);
     return 0;
 }
+

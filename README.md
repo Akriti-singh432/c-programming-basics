@@ -2,7 +2,7 @@
 
 This repository contains basic C programming programs and concepts for beginners.
 
-## 📂 Files Included
+##  Files Included
 - Demo.c – Demo program
 - Functionsum.c – Function example
 - Helloprint.c – Hello print program
@@ -10,12 +10,12 @@ This repository contains basic C programming programs and concepts for beginners
 - Trigonometric.c – Trigonometric calculations
 - swep.c – Swap program
 
-## 🎯 Purpose
+##  Purpose
 This repository is created to practice and understand basic C programming concepts like:
 - Functions
 - Loops
 - Input/Output
 - Basic programs
 
-## 👩‍💻 Author
+##  Author
 Akriti Singh
